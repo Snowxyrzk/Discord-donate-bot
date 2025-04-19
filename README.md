@@ -97,8 +97,6 @@ O sistema verifica doações a cada **10 segundos** automaticamente.
 - log de doações
 - tudo 100% automático e fácil 
 
-<details>
-  
   <summary>🔒 Segurança</summary>
 
 - Variáveis sensíveis protegidas em `.env`
@@ -118,6 +116,7 @@ O sistema verifica doações a cada **10 segundos** automaticamente.
 <details>
   <summary>⚠️ Importante</summary>
 
+  
 - Proteja seu `.env`
 - Nunca compartilhe tokens ou senhas
 - Faça backup frequente
