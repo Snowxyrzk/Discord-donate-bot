@@ -89,13 +89,13 @@ O sistema verifica doações a cada **10 segundos** automaticamente.
 - **Plus**: R$10 (30 dias)
 - **Pro**: R$15 (30 dias)
 
-> 📝 *Atualize os IDs e o tempo conforme sua preferência!*
+> 📝 *Atualize os IDs e o tempo e o preço conforme sua preferência!*
 
-### 📚 Benefícios por Cargo
-- **Basic**: Reações, anexos, scripts sem encurtadores, voz
-- **Plus**: Tudo do Basic + transmissão de tela
-- **Pro**: Tudo do Plus + suporte preferencial
-</details>
+### 💰 Sistema de aprovação de pagamento automático 
+- aprova pagamentos e seta o cargo sozinho de acordo com o valor
+- envia embed no privado dizendo que o pagamento foi aprovado
+- log de doações
+- tudo 100% automático e fácil 
 
 <details>
   <summary>🔒 Segurança</summary>
