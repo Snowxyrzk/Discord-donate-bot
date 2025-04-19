@@ -98,6 +98,7 @@ O sistema verifica doações a cada **10 segundos** automaticamente.
 - tudo 100% automático e fácil 
 
 <details>
+  
   <summary>🔒 Segurança</summary>
 
 - Variáveis sensíveis protegidas em `.env`
