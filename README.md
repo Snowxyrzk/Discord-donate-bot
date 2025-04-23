@@ -127,7 +127,7 @@ O sistema verifica doações a cada **10 segundos** automaticamente.
 Projeto **privado**. Proibida a redistribuição sem permissão.
 
 # NOSSO DISCORD!
-[![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/gamesdest)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/centralscripts)
 
 👤 Desenvolvido por:  
 - [Snow](https://e-z.bio/im_snow)  
